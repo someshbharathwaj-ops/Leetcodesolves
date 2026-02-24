@@ -1,4 +1,4 @@
-# 🚀 LeetCode Java Solutions
+# 🚀 LeetCode problems that i solved 
 
 ## 👨‍💻 Language
 Java
@@ -16,12 +16,7 @@ Java
 
 ## 📂 Topics Covered
 
-- Arrays
-- Strings
-- Binary Search
-- Dynamic Programming
-- Graphs
-- Trees
+
 
 ---
 

@@ -1,4 +1,4 @@
-# 🚀 LeetCode problems that i solved 
+# 🚀 LeetCode Problem Solving Journey
 
 ## 👨‍💻 Language
 Java
@@ -7,28 +7,63 @@ Java
 
 ## 📊 Progress
 
-- Total Solved: 0
-- Easy: 0
-- Medium: 0
-- Hard: 0
+- Total Solved: 7
+- 🟢 Easy: 5
+- 🟡 Medium: 2
+- 🔴 Hard: 0
 
 ---
 
-## 📂 Topics Covered
+## 🧠 Problems & Core Patterns
 
+### 📌 Arrays
 
+- **1929. Concatenation of Array**  
+  → Linear Array Traversal  
+
+- **1470. Shuffle the Array**  
+  → Index Mapping / Simulation  
 
 ---
 
-## 🎯 Goal
-Solve 1000 problems before Feb 2027.
-Maintain daily consistency.
+### 📌 Dynamic Programming
+
+- **70. Climbing Stairs**  
+  → 1D DP (Fibonacci Recurrence)
+
+- **509. Fibonacci Number**  
+  → Basic Recurrence / Bottom-Up DP
+
+- **1137. N-th Tribonacci Number**  
+  → Multi-State Recurrence DP
+
+- **416. Partition Equal Subset Sum**  
+  → Subset Sum DP  
+  → 0/1 Knapsack Pattern  
 
 ---
 
-## 📈 Structure
-Each solution includes:
-- Problem statement reference
+### 📌 Linked List
+
+- **19. Remove Nth Node From End of List**  
+  → Two Pointer Technique  
+  → Single Pass Optimization  
+
+---
+
+## 🎯 Long-Term Goal
+
+- Solve **1000 problems before Feb 2027**
+- Achieve mastery over algorithmic paradigms
+- Build deep problem-solving intuition
+- Prepare for GATE and top-tier interviews
+
+---
+
+## 📈 Solution Structure
+
+Each solution contains:
 - Approach explanation
-- Time & Space Complexity
+- Time Complexity analysis
+- Space Complexity analysis
 - Clean Java implementation

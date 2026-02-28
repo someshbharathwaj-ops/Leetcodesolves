@@ -1,75 +1,95 @@
-🚀 LeetCode Problem Solving Journey
+# 🚀 LeetCode Problem Solving Journey
 
-👨‍💻 Language
+A structured repository documenting my progress in mastering Data Structures & Algorithms using Java.
+
+---
+
+## 👨‍💻 Language
 Java
 
-📊 Progress
+---
 
-Total Solved: 10
-🟢 Easy: 7
-🟡 Medium: 2
-🔴 Hard: 1
+## 📊 Progress
 
-🧠 Problems & Core Patterns
-📌 Arrays
+| Difficulty | Count |
+|------------|--------|
+| 🟢 Easy    | 7      |
+| 🟡 Medium  | 2      |
+| 🔴 Hard    | 1      |
+| **Total**  | **10** |
 
-1929. Concatenation of Array
-→ Linear Array Traversal
+---
 
-485. Max Consecutive Ones
-→ Sliding Window / Linear Scan
+## 🧠 Problems & Core Patterns
 
-1470. Shuffle the Array
-→ Index Mapping / Simulation
+### 📌 Arrays
 
-📌 Dynamic Programming
+- 1929. Concatenation of Array  
+  → Linear Array Traversal  
 
-70. Climbing Stairs
-→ 1D DP (Fibonacci Recurrence)
+- 485. Max Consecutive Ones  
+  → Linear Scan / Sliding Window  
 
-509. Fibonacci Number
-→ Basic Recurrence
-→ Bottom-Up DP
+- 1470. Shuffle the Array  
+  → Index Mapping / Simulation  
 
-746. Min Cost Climbing Stairs
-→ State Transition DP
-→ Cost Optimization
+---
 
-1137. N-th Tribonacci Number
-→ Multi-State Recurrence DP
+### 📌 Dynamic Programming
 
-198. House Robber
-→ 1D DP
-→ Include/Exclude Pattern
+- 70. Climbing Stairs  
+  → 1D DP (Fibonacci Recurrence)  
 
-174. Dungeon Game
-→ 2D DP
-→ Reverse State Transition
+- 509. Fibonacci Number  
+  → Basic Recurrence  
+  → Bottom-Up DP  
 
-📌 Linked List
+- 746. Min Cost Climbing Stairs  
+  → State Transition DP  
+  → Cost Optimization  
 
-19. Remove Nth Node From End of List
-→ Two Pointer Technique
-→ Single Pass Optimization
+- 1137. N-th Tribonacci Number  
+  → Multi-State Recurrence DP  
 
-📈 Solution Structure
+- 198. House Robber  
+  → Include / Exclude DP Pattern  
 
-Each solution contains:
+- 174. Dungeon Game  
+  → 2D DP  
+  → Reverse State Transition  
 
-Approach explanation
+---
 
-Time Complexity analysis
+### 📌 Linked List
 
-Space Complexity analysis
+- 19. Remove Nth Node From End of List  
+  → Two Pointer Technique  
+  → Single Pass Optimization  
 
-Clean Java implementation
+---
 
-🎯 Long-Term Goal
+## 📈 Solution Structure
 
-Solve 1000 problems before February 2027
+Each solution includes:
 
-Achieve mastery over algorithmic paradigms
+- Approach explanation  
+- Time Complexity analysis  
+- Space Complexity analysis  
+- Clean and optimized Java implementation  
 
-Build deep problem-solving intuition
+---
 
-Prepare for GATE 2028 and top-tier interviews
+## 🎯 Long-Term Goal
+
+- Solve 1000 problems before February 2027  
+- Achieve mastery over core algorithmic paradigms  
+- Build deep problem-solving intuition  
+- Prepare for GATE 2028 and top-tier interviews  
+
+---
+
+### 🔥 Philosophy
+
+Consistency > Motivation  
+Pattern Recognition > Memorization  
+Understanding > Copying  

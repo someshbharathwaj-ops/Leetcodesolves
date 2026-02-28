@@ -24,37 +24,37 @@ Java
 
 ### 📌 Arrays
 
-- 1929. Concatenation of Array  
+- 1929\. Concatenation of Array  
   → Linear Array Traversal  
 
-- 485. Max Consecutive Ones  
+- 485\. Max Consecutive Ones  
   → Linear Scan / Sliding Window  
 
-- 1470. Shuffle the Array  
+- 1470\. Shuffle the Array  
   → Index Mapping / Simulation  
 
 ---
 
 ### 📌 Dynamic Programming
 
-- 70. Climbing Stairs  
+- 70\. Climbing Stairs  
   → 1D DP (Fibonacci Recurrence)  
 
-- 509. Fibonacci Number  
+- 509\. Fibonacci Number  
   → Basic Recurrence  
   → Bottom-Up DP  
 
-- 746. Min Cost Climbing Stairs  
+- 746\. Min Cost Climbing Stairs  
   → State Transition DP  
   → Cost Optimization  
 
-- 1137. N-th Tribonacci Number  
+- 1137\. N-th Tribonacci Number  
   → Multi-State Recurrence DP  
 
-- 198. House Robber  
+- 198\. House Robber  
   → Include / Exclude DP Pattern  
 
-- 174. Dungeon Game  
+- 174\. Dungeon Game  
   → 2D DP  
   → Reverse State Transition  
 
@@ -62,7 +62,7 @@ Java
 
 ### 📌 Linked List
 
-- 19. Remove Nth Node From End of List  
+- 19\. Remove Nth Node From End of List  
   → Two Pointer Technique  
   → Single Pass Optimization  
 
